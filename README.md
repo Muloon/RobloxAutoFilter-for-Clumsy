@@ -5,7 +5,7 @@ It also serves as a Clumsy toggle with on/off sounds and a chime for when a new 
 The toggle may be changed by deleting the .ini and reloading the script from your system tray, or by editing the .ini itself with a valid AHK hotkey. 
 All three sounds can be changed in the sounds folder by swapping the .wav files with any other .wav files of your choice, all of which must share an identical name to the respective .wavs being replaced. 
 You do not need AutoHotKey V1 installed to use this. Closing this script will also close Clumsy. 
-u may replace the .exe with the provided source .ahk if you have AutoHotkey V1 installed. 
+You may replace the .exe with the provided source .ahk if you have AutoHotkey V1 installed. 
 This script must be run as admin to work properly.
 
 If RobloxAutoUDP does not work (Which will likely happen on Windows 11), please try RobloxAutoIP instead. 
